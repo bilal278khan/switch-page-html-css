@@ -1,0 +1,20 @@
+
+*{
+    text-align: center;
+    color: black;
+}
+    body {
+      background-image: url('123.jpg');
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-size: 1900px;
+      opacity: 30;
+
+    }
+button{
+  
+    padding: 5px 15px;
+    color: black;
+}
+ 
